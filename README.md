@@ -27,4 +27,4 @@ The `prefecture_name` in romaji will include one of the possible denomination `K
 
 More [open data repositories](https://github.com/piuccio?utf8=%E2%9C%93&tab=repositories&q=open-data-jp&type=&language=).
 
-You can also find a list of all GeoJSON prefectures on [this repository](https://github.com/dataofjapan/land).
+You can find a GeoJSON file of Japanese prefectures on [open-data-jp-prefectures-geojson](https://github.com/piuccio/open-data-jp-prefectures-geojson) as well as a lower resolutions prefectures on [dataofjapan](https://github.com/dataofjapan/land).
