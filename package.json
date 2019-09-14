@@ -2,7 +2,10 @@
   "name": "open-data-jp-prefectures",
   "version": "1.0.0",
   "description": "List of Japanese prefectures in an accessible format",
-  "main": "index.js",
+  "main": "prefectures.json",
+  "files": [
+    "prefectures.json"
+  ],
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon --watch index.js"
@@ -10,6 +13,6 @@
   "author": "Fabio Crisci",
   "license": "MIT",
   "dependencies": {
-    "csv-parse": "^2.5.0"
+    "csv-parse": "^4.4.5"
   }
 }
