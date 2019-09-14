@@ -1,6 +1,6 @@
 {
   "name": "open-data-jp-prefectures",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of Japanese prefectures in an accessible format",
   "main": "prefectures.json",
   "files": [
