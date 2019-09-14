@@ -2,6 +2,10 @@
   "name": "open-data-jp-prefectures",
   "version": "1.0.1",
   "description": "List of Japanese prefectures in an accessible format",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:piuccio/open-data-jp-prefectures.git"
+  },
   "main": "prefectures.json",
   "files": [
     "prefectures.json"
