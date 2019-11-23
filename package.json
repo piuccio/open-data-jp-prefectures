@@ -17,6 +17,6 @@
   "author": "Fabio Crisci",
   "license": "MIT",
   "devDependencies": {
-    "csv-parse": "^4.4.5"
+    "csv-parse": "^4.8.2"
   }
 }
